@@ -6,7 +6,7 @@
     <UserSecretsId>58bb8ac9-8eb6-49c3-b875-2704d879ddb7</UserSecretsId>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="Azure.Storage.Blobs" Version="12.2.0" />
+    <PackageReference Include="Azure.Storage.Blobs" Version="12.13.0" />
     <PackageReference Include="Microsoft.Extensions.Configuration" Version="3.1.1" />
     <PackageReference Include="Microsoft.Extensions.Configuration.UserSecrets" Version="3.1.1" />
   </ItemGroup>
